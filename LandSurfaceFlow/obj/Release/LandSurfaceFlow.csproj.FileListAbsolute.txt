@@ -29,3 +29,35 @@
 \\Aa.ad.epa.gov\ord\ATH\Users\A-M\DSmith\Net MyDocuments\Visual Studio 2015\Projects\HMS\LandSurfaceFlow\obj\Release\LandSurfaceFlow.csprojResolveAssemblyReference.cache
 \\Aa.ad.epa.gov\ord\ATH\Users\A-M\DSmith\Net MyDocuments\Visual Studio 2015\Projects\HMS\LandSurfaceFlow\obj\Release\LandSurfaceFlow.dll
 \\Aa.ad.epa.gov\ord\ATH\Users\A-M\DSmith\Net MyDocuments\Visual Studio 2015\Projects\HMS\LandSurfaceFlow\obj\Release\LandSurfaceFlow.pdb
+C:\git\HMS\LandSurfaceFlow\bin\Release\HMSGDAL.cs
+C:\git\HMS\LandSurfaceFlow\bin\Release\HMSJSON.cs
+C:\git\HMS\LandSurfaceFlow\bin\Release\App.config
+C:\git\HMS\LandSurfaceFlow\bin\Release\HMSLDAS.cs
+C:\git\HMS\LandSurfaceFlow\bin\Release\LandSurfaceFlow.dll.config
+C:\git\HMS\LandSurfaceFlow\bin\Release\LandSurfaceFlow.dll
+C:\git\HMS\LandSurfaceFlow\bin\Release\LandSurfaceFlow.pdb
+C:\git\HMS\LandSurfaceFlow\bin\Release\GeoAPI.dll
+C:\git\HMS\LandSurfaceFlow\bin\Release\HMSGDAL.dll
+C:\git\HMS\LandSurfaceFlow\bin\Release\HMSJSON.dll
+C:\git\HMS\LandSurfaceFlow\bin\Release\HMSLDAS.dll
+C:\git\HMS\LandSurfaceFlow\bin\Release\HMSTimeSeries.dll
+C:\git\HMS\LandSurfaceFlow\bin\Release\NetTopologySuite.IO.GeoJSON.dll
+C:\git\HMS\LandSurfaceFlow\bin\Release\gdal_csharp.dll
+C:\git\HMS\LandSurfaceFlow\bin\Release\ProjNet.dll
+C:\git\HMS\LandSurfaceFlow\bin\Release\Newtonsoft.Json.dll
+C:\git\HMS\LandSurfaceFlow\bin\Release\ogr_csharp.dll
+C:\git\HMS\LandSurfaceFlow\bin\Release\osr_csharp.dll
+C:\git\HMS\LandSurfaceFlow\bin\Release\HMSGDAL.pdb
+C:\git\HMS\LandSurfaceFlow\bin\Release\HMSGDAL.dll.config
+C:\git\HMS\LandSurfaceFlow\bin\Release\HMSJSON.pdb
+C:\git\HMS\LandSurfaceFlow\bin\Release\HMSJSON.dll.config
+C:\git\HMS\LandSurfaceFlow\bin\Release\HMSLDAS.pdb
+C:\git\HMS\LandSurfaceFlow\bin\Release\HMSLDAS.dll.config
+C:\git\HMS\LandSurfaceFlow\bin\Release\HMSTimeSeries.pdb
+C:\git\HMS\LandSurfaceFlow\bin\Release\GeoAPI.xml
+C:\git\HMS\LandSurfaceFlow\bin\Release\NetTopologySuite.IO.GeoJSON.xml
+C:\git\HMS\LandSurfaceFlow\bin\Release\Newtonsoft.Json.xml
+C:\git\HMS\LandSurfaceFlow\obj\Release\LandSurfaceFlow.csprojResolveAssemblyReference.cache
+C:\git\HMS\LandSurfaceFlow\obj\Release\LandSurfaceFlow.csproj.CoreCompileInputs.cache
+C:\git\HMS\LandSurfaceFlow\obj\Release\LandSurfaceFlow.dll
+C:\git\HMS\LandSurfaceFlow\obj\Release\LandSurfaceFlow.pdb

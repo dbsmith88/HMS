@@ -39,3 +39,45 @@
 \\Aa.ad.epa.gov\ord\ATH\Users\A-M\DSmith\Net MyDocuments\Visual Studio 2015\Projects\HMS\Evapotranspiration\obj\Release\Evapotranspiration.csprojResolveAssemblyReference.cache
 \\Aa.ad.epa.gov\ord\ATH\Users\A-M\DSmith\Net MyDocuments\Visual Studio 2015\Projects\HMS\Evapotranspiration\obj\Release\Evapotranspiration.dll
 \\Aa.ad.epa.gov\ord\ATH\Users\A-M\DSmith\Net MyDocuments\Visual Studio 2015\Projects\HMS\Evapotranspiration\obj\Release\Evapotranspiration.pdb
+C:\git\HMS\Evapotranspiration\bin\Release\HMSGDAL.cs
+C:\git\HMS\Evapotranspiration\bin\Release\HMSJSON.cs
+C:\git\HMS\Evapotranspiration\bin\Release\App.config
+C:\git\HMS\Evapotranspiration\bin\Release\HMSLDAS.cs
+C:\git\HMS\Evapotranspiration\bin\Release\Evapotranspiration.dll.config
+C:\git\HMS\Evapotranspiration\bin\Release\Evapotranspiration.dll
+C:\git\HMS\Evapotranspiration\bin\Release\Evapotranspiration.pdb
+C:\git\HMS\Evapotranspiration\bin\Release\HMSGDAL.dll
+C:\git\HMS\Evapotranspiration\bin\Release\HMSJSON.dll
+C:\git\HMS\Evapotranspiration\bin\Release\HMSLDAS.dll
+C:\git\HMS\Evapotranspiration\bin\Release\HMSTimeSeries.dll
+C:\git\HMS\Evapotranspiration\bin\Release\NetTopologySuite.dll
+C:\git\HMS\Evapotranspiration\bin\Release\NetTopologySuite.IO.GeoTools.dll
+C:\git\HMS\Evapotranspiration\bin\Release\GeoAPI.dll
+C:\git\HMS\Evapotranspiration\bin\Release\NetTopologySuite.IO.GeoJSON.dll
+C:\git\HMS\Evapotranspiration\bin\Release\gdal_csharp.dll
+C:\git\HMS\Evapotranspiration\bin\Release\ProjNet.dll
+C:\git\HMS\Evapotranspiration\bin\Release\Newtonsoft.Json.dll
+C:\git\HMS\Evapotranspiration\bin\Release\PowerCollections.dll
+C:\git\HMS\Evapotranspiration\bin\Release\NetTopologySuite.IO.dll
+C:\git\HMS\Evapotranspiration\bin\Release\NetTopologySuite.IO.ShapeFile.dll
+C:\git\HMS\Evapotranspiration\bin\Release\ogr_csharp.dll
+C:\git\HMS\Evapotranspiration\bin\Release\osr_csharp.dll
+C:\git\HMS\Evapotranspiration\bin\Release\HMSGDAL.pdb
+C:\git\HMS\Evapotranspiration\bin\Release\HMSGDAL.dll.config
+C:\git\HMS\Evapotranspiration\bin\Release\HMSJSON.pdb
+C:\git\HMS\Evapotranspiration\bin\Release\HMSJSON.dll.config
+C:\git\HMS\Evapotranspiration\bin\Release\HMSLDAS.pdb
+C:\git\HMS\Evapotranspiration\bin\Release\HMSLDAS.dll.config
+C:\git\HMS\Evapotranspiration\bin\Release\HMSTimeSeries.pdb
+C:\git\HMS\Evapotranspiration\bin\Release\NetTopologySuite.xml
+C:\git\HMS\Evapotranspiration\bin\Release\NetTopologySuite.IO.GeoTools.xml
+C:\git\HMS\Evapotranspiration\bin\Release\GeoAPI.xml
+C:\git\HMS\Evapotranspiration\bin\Release\NetTopologySuite.IO.GeoJSON.xml
+C:\git\HMS\Evapotranspiration\bin\Release\Newtonsoft.Json.xml
+C:\git\HMS\Evapotranspiration\bin\Release\PowerCollections.xml
+C:\git\HMS\Evapotranspiration\bin\Release\NetTopologySuite.IO.xml
+C:\git\HMS\Evapotranspiration\bin\Release\NetTopologySuite.IO.ShapeFile.xml
+C:\git\HMS\Evapotranspiration\obj\Release\Evapotranspiration.csprojResolveAssemblyReference.cache
+C:\git\HMS\Evapotranspiration\obj\Release\Evapotranspiration.csproj.CoreCompileInputs.cache
+C:\git\HMS\Evapotranspiration\obj\Release\Evapotranspiration.dll
+C:\git\HMS\Evapotranspiration\obj\Release\Evapotranspiration.pdb

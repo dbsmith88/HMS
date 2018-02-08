@@ -46,11 +46,13 @@ namespace HMSWebServices.Controllers
             parameters.Add("id", guid);
             try
             {
+                
                 if (Request.Content.IsMimeMultipartContent())
                 {
                     string fileSaveLocation = HttpContext.Current.Server.MapPath("~\\TransientStorage\\" + guid);
-                    CustomMultipartFormDataStreamProvider provider = new CustomMultipartFormDataStreamProvider(fileSaveLocation);
 
+                    CustomMultipartFormDataStreamProvider provider = new CustomMultipartFormDataStreamProvider(fileSaveLocation);
+                    Directory.CreateDirectory(fileSaveLocation);
                     await Request.Content.ReadAsMultipartAsync(provider);
                     foreach (var key in provider.FormData.AllKeys)
                     {
@@ -59,20 +61,17 @@ namespace HMSWebServices.Controllers
                             parameters.Add(key, val);
                         }
                     }
-                    if (parameters.ContainsKey("filePath"))
-                    {
-                        Directory.CreateDirectory(fileSaveLocation);
-                    }
+
                     foreach (MultipartFileData file in provider.FileData)
                     {
                         files.Add(Path.GetFileName(file.LocalFileName));
                         parameters.Add("filePath", file.LocalFileName);
                     }
                 }
-                else if(Request.Content.IsFormData())
+                else if (Request.Content.IsFormData())
                 {
                     NameValueCollection collection = await Request.Content.ReadAsFormDataAsync();
-                    foreach(string key in collection)
+                    foreach (string key in collection)
                     {
                         parameters.Add(key, collection[key]);
                     }
@@ -95,7 +94,8 @@ namespace HMSWebServices.Controllers
             }
             if (errorMsg.Contains("ERROR"))
             {
-                if (Directory.Exists(HttpContext.Current.Server.MapPath("~\\TransientStorage\\" + parameters["id"]))) {
+                if (Directory.Exists(HttpContext.Current.Server.MapPath("~\\TransientStorage\\" + parameters["id"])))
+                {
                     utils.DeleteTempGUIDDirectory(HttpContext.Current.Server.MapPath("~\\TransientStorage\\"), parameters["id"]);
                 }
                 return utils.ReturnError(errorMsg);

@@ -2,3 +2,9 @@
 \\Aa.ad.epa.gov\ord\ATH\Users\A-M\DSmith\Net MyDocuments\Visual Studio 2015\Projects\HMS\HMSTimeSeries\bin\Release\HMSTimeSeries.pdb
 \\Aa.ad.epa.gov\ord\ATH\Users\A-M\DSmith\Net MyDocuments\Visual Studio 2015\Projects\HMS\HMSTimeSeries\obj\Release\HMSTimeSeries.dll
 \\Aa.ad.epa.gov\ord\ATH\Users\A-M\DSmith\Net MyDocuments\Visual Studio 2015\Projects\HMS\HMSTimeSeries\obj\Release\HMSTimeSeries.pdb
+C:\git\HMS\HMSTimeSeries\bin\Release\HMSTimeSeries.dll
+C:\git\HMS\HMSTimeSeries\bin\Release\HMSTimeSeries.pdb
+C:\git\HMS\HMSTimeSeries\obj\Release\HMSTimeSeries.csprojResolveAssemblyReference.cache
+C:\git\HMS\HMSTimeSeries\obj\Release\HMSTimeSeries.csproj.CoreCompileInputs.cache
+C:\git\HMS\HMSTimeSeries\obj\Release\HMSTimeSeries.dll
+C:\git\HMS\HMSTimeSeries\obj\Release\HMSTimeSeries.pdb
