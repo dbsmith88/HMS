@@ -66,6 +66,7 @@ namespace HMSWebServices.Controllers
                 {
                     string fileSaveLocation = HttpContext.Current.Server.MapPath("~\\TransientStorage\\" + guid);
                     CustomMultipartFormDataStreamProvider provider = new CustomMultipartFormDataStreamProvider(fileSaveLocation);
+                    Directory.CreateDirectory(fileSaveLocation);
 
                     await Request.Content.ReadAsMultipartAsync(provider);
                     foreach (var key in provider.FormData.AllKeys)
@@ -74,10 +75,6 @@ namespace HMSWebServices.Controllers
                         {
                             parameters.Add(key, val);
                         }
-                    }
-                    if (parameters.ContainsKey("filePath"))
-                    {
-                        Directory.CreateDirectory(fileSaveLocation);
                     }
 
                     foreach (MultipartFileData file in provider.FileData)
